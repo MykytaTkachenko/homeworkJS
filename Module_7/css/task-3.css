@@ -1,0 +1,13 @@
+#gallery {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+img {
+    max-width: 500px;
+    margin: 50px 0px;
+    border: 10px solid;
+    border-color: red;
+    border-radius: 10px;
+}
